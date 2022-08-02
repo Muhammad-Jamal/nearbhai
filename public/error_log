@@ -1,0 +1,2 @@
+[14-Jul-2022 19:34:15 UTC] PHP Warning:  require(/home/shaherya/nearbhai.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/shaherya/nearbhai.com/public/index.php on line 34
+[14-Jul-2022 19:34:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/shaherya/nearbhai.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/shaherya/nearbhai.com/public/index.php on line 34

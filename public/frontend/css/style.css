@@ -1,0 +1,116 @@
+.navbar-nav {
+    padding-left: 85% !important;
+    position: absolute;
+    top: 4%;
+}
+/* table.dataTable tbody td {
+    padding: 25px 20px !important;
+} */
+thead{
+    background-color: #0ec6d5;
+    color: white;
+}
+.w-30px {
+    width: 100px!important;
+}
+.action-buttons{
+    display: flex;
+    padding-top: 30px !important;
+}
+a.ebutton.btn.btn-primary {
+    margin-right: 13px;
+}
+.rounded-circle {
+    border-radius: 0%!important;
+}
+.list-inline-item:not(:last-child) {
+    margin-right: 0rem !important;
+}
+/* .usr-img-frame{
+    height: 43px !important;
+    width: 113px !important;
+
+} */
+
+.work-label {
+    color: red !important;
+    font-weight: 900 !important;
+}
+
+li.nav-item {
+    border: 2px solid #0ec6d5;
+    padding: 14px;
+    margin-left: -21px;
+}
+
+.heading{
+    border-bottom: 5px solid #0ec6d5;
+    width: 270px;
+}
+.card-img{
+    height: 280px;
+}
+
+.viewBtn {
+    padding: 2px 7px;
+    color: black;
+}
+.viewBtn:hover{
+    color: #fff;
+}
+.logBtn {
+    text-align: center;
+    margin-top: 60px !important;
+}
+.logBtn a:hover{
+    color: #0ec6d5 !important;
+    border: 2px solid #0ec6d5;
+}
+.logBtn a {
+    padding: 10px 68px;
+    font-size: 16px;
+    font-weight: 700;
+    border: 2px solid;
+}
+.social{
+    text-align: center;
+    margin-top: 25px;
+}
+.social a i{
+    font-size: 28px;
+    font-weight: 700;
+}
+.social a{
+    padding: 10px 15px;
+}
+.social a i:hover{
+    color: #0ec6d5;
+}
+.copyRight{
+    text-align: center;
+}
+.copyRight span{
+    color: black;
+    font-weight: 700;
+}
+.help{
+    text-align: right;
+}
+.help span:hover{
+    color: #0ec6d5 !important;
+}
+.help span{
+    color: black;
+    margin-right: 26px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.dashboard-wrapper .db-sidebar .sidebar-item:hover, .dashboard-wrapper .db-sidebar .sidebar-item.active {
+    background: #0ec6d5 !important;
+    color: #fff !important;
+}
+.dashboard-wrapper .db-sidebar .sidebar-item:hover, .dashboard-wrapper .db-sidebar .sidebar-item:hover {
+    background-color: #F8F8F8 !important;
+}
+
